@@ -37,6 +37,7 @@ public class Pandigital
             count = 0;
         }
     }
+
     public static void main(String[] args)
     {
         for(int i = 1000; i < 2001; i++)
